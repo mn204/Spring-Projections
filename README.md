@@ -1,4 +1,4 @@
-# 🌱 Spring Projections Demo
+# 🌱 Spring Projections Ejemplo
 
 <div align="center">
 
