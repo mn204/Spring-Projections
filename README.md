@@ -38,20 +38,16 @@ Este proyecto demuestra el uso de **proyecciones en Spring Data JPA** para optim
   </tr>
   <tr>
     <td align="center">
-      <img src="https://projectlombok.org/img/lombok-logo.png" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" width="40" height="40"/>
       <br><b>Lombok</b>
     </td>
     <td align="center">
-      <img src="https://swagger.io/wp-content/uploads/2016/02/logo.jpg" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40" height="40"/>
       <br><b>Swagger/OpenAPI</b>
     </td>
     <td align="center">
       <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="40" height="40"/>
       <br><b>Maven</b>
-    </td>
-    <td align="center">
-      <img src="https://springdoc.org/images/springdoc-openapi.png" width="40" height="40"/>
-      <br><b>SpringDoc</b>
     </td>
   </tr>
 </table>
